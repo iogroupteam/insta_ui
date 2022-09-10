@@ -1,5 +1,7 @@
 # short_code
 
+![SHORT_CODE](/cover.png)
+
 A new Flutter project.
 
 ## Getting Started
