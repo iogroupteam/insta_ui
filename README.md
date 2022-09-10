@@ -1,4 +1,4 @@
-# short_code
+# Short Code
 
 ![SHORT_CODE](/cover.png)
 
